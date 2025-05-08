@@ -8,10 +8,6 @@ This repository contains solutions to various Python Object-Oriented Programming
 ## 📋 Table of Contents
 - [Features](#-features)
 - [Assignments](#-assignments)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ## ✨ Features
 - 21 different OOP concepts implemented
